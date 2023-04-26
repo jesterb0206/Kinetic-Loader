@@ -15,11 +15,11 @@
 
 <br>
 
-![Kinetic Loader]()
+![Kinetic Loader](images/kinetic-loader.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Kinetic-Loader/)
 
 <br>
 
